@@ -11,7 +11,7 @@ This Tool To Extract All Websites And Cms Sites on Server
 
 <p><code>OR</code></p>
 
-<p><code>python3 setup.py install;pip install -r requirements.txt</code></p>
+<p><code>pip install -r requirements.txt</code></p>
 
 <h4>To use</h4>
 
